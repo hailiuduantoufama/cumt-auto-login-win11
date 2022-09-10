@@ -13,17 +13,17 @@
    #要想win11通知就一点点小的改动。其他都一样。
    #
 
-    #但是win11推送不可以！！！哭死(;´༎ຶД༎ຶ`
-    #然后简单捣鼓了一下，在这放一下win11推送的版本；很简陋，但是能用；
-    #
-    #
-    #![image](https://user-images.githubusercontent.com/103260861/189483197-36ff20c9-3093-4ad3-b806-7dfd24e47fbc.png)
-    #
-    #
-    #
-    #（修改一下toast里边的appid可以修改通知app名）
-    #
-    #![image](https://user-images.githubusercontent.com/103260861/189483176-9d211b4e-69d9-4235-b9a0-5ca16dd01157.png)
-    
+   #但是win11推送不可以！！！哭死(;´༎ຶД༎ຶ
+   #然后简单捣鼓了一下，在这放一下win11推送的版本；很简陋，但是能用；
+   #
+ #
+  #![image](https://user-images.githubusercontent.com/103260861/189483197-36ff20c9-3093-4ad3-b806-7dfd24e47fbc.png)
+ #
+ #
+ #
+ #（修改一下toast里边的appid可以修改通知app名）
+ #
+ #![image](https://user-images.githubusercontent.com/103260861/189483176-9d211b4e-69d9-4235-b9a0-5ca16dd01157.png)
+
     
 
